@@ -6,4 +6,4 @@ Image for eye-catching:
 
 ![Teaser image](https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png)
 
-All the links for download you can find in [this json](https://github.com/dobrosketchkun/poor_mans_ffhq/blob/main/ffhq_links.json). Here's the [root folder](https://drive.google.com/drive/folders/1fzJCn9H0i1j33s8v3Jg5uEBerNvZYspE?usp=sharing) just in case.
+All the links for download you can find in [this json](https://github.com/dobrosketchkun/poor_mans_ffhq/blob/main/ffhq_links.json). Here's the [root folder](https://mega.nz/folder/TMEEjJ4T#Hm5PgOMtZLrEKWFGsjdCzQ) just in case.
